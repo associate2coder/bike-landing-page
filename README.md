@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-Live Demo of the Project is available here: [DEMO LINK](https://associate2coder.github.io/layout_landing-page/)
+Live Demo of the Project is available here: [DEMO LINK](https://associate2coder.github.io/bike-landing-page/)
 
 ## Project Design
 
